@@ -1,10 +1,10 @@
 # MINDCOMPOSURE
 
-Below are the main prototype mobile interface designs slides of MINDCOMPOSURE application:
+1) Below are the main prototype mobile interface designs slides of MINDCOMPOSURE application:
 
 [Prototype Interface.pdf](https://github.com/nmssyahmi/Mindcomposure/files/10609500/Prototype.Interface.pdf)
 
-Stress Management Mobile Application (MINDCOMPOSURE) consist of 4 main subsystem:
+2) Stress Management Mobile Application (MINDCOMPOSURE) consist of 4 main subsystem:
 - account management subsystem
 - stress level management subsystem
 - stress technique treatment subsystem
@@ -22,7 +22,7 @@ Below are the figure for whole use case diagram of MINDCOMPOSURE application:
 
 ![use case daigram](https://user-images.githubusercontent.com/62758016/216787635-e20bf3a2-1d59-425b-8bf7-6d0e7389b522.PNG)
 
-i.	Programming languages that being used:  
+3) i.	Programming languages that being used:  
 - Flutter(Dart Programming)
 
 ii.	Database Server that being used:  
