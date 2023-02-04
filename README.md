@@ -12,7 +12,8 @@ For the stress technique treatment management subsystem, the requirement are pub
 
 For the stress level management subsystem, the requirement are public/UTM student shall be able to ask question related stress from the discussion of topic that being selected. Lastly, UTM counsellor shall be able to response the question from the student discussion on stress related issues from the discussion of topic that inquiry by the public/UTM students.
 
-ii.	Programming languages:  Flutter, Dart, JSON RESTful API is used for framework that transfer data to database and Visual Studio Code is used for editors and programming process.
+i.	Programming languages:  Flutter, Dart, JSON RESTful API is used for framework that transfer data to database and Visual Studio Code is used for editors and programming process.
+
 ii.	Database Server:  Firebase, Firebase Authentication for user authentication, Firebase Firestore for storing various data and Firebase Storage for storing image.
 
 
