@@ -1,6 +1,6 @@
 # MINDCOMPOSURE
 
-Below are the main prototype mobile interface design slides of MINDCOMPOSURE application:
+Below are the main prototype mobile interface designs slides of MINDCOMPOSURE application:
 
 [Prototype Interface.pdf](https://github.com/nmssyahmi/Mindcomposure/files/10609500/Prototype.Interface.pdf)
 
@@ -18,13 +18,14 @@ For the stress technique treatment management subsystem, users shall be able to 
 
 For the stress level management subsystem, all users shall be able to ask questions related stress in open discussion. UTM counsellor and users shall be able to sent message in the open discussion with their username is displayed.
 
-Below are the figure for whole use case diagram of MINDCOMPOSURE:
+Below are the figure for whole use case diagram of MINDCOMPOSURE application:
+
 ![use case daigram](https://user-images.githubusercontent.com/62758016/216787635-e20bf3a2-1d59-425b-8bf7-6d0e7389b522.PNG)
 
-i.	Programming languages:  
+i.	Programming languages that being used:  
 - Flutter(Dart Programming)
 
-ii.	Database Server:  
+ii.	Database Server that being used:  
 - Firebase, Firebase Authentication for user authentication, 
 - Firebase Firestore for storing various data 
 - Firebase Storage for storing image.
