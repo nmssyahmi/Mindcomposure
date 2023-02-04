@@ -11,4 +11,7 @@ For the stress level management subsystem, the requirement are public/UTM studen
 For the stress technique treatment management subsystem, the requirement are public/UTM student shall be able to practice the exercise therapy by following the exercise article or exercise video. Then, public/UTM student shall be able to listen to music therapy by playing the relaxing music. Furthermore, public/ UTM student shall be able to read the balanced food intake article for gaining knowledge on what food that can reduce the stress. Then, UTM counsellor shall be able to update the balanced food intake article.
 
 For the stress level management subsystem, the requirement are public/UTM student shall be able to ask question related stress from the discussion of topic that being selected. Lastly, UTM counsellor shall be able to response the question from the student discussion on stress related issues from the discussion of topic that inquiry by the public/UTM students.
+
+![image](https://user-images.githubusercontent.com/62758016/216787148-15b2ad2d-1d03-47ea-a23f-135c7e6c92f6.png)
+
 [Prototype Interface.pdf](https://github.com/nmssyahmi/Mindcomposure/files/10609500/Prototype.Interface.pdf)
