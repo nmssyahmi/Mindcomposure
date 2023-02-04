@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195880228904",
+    "project_id": "mindcomposure-c12d9",
+    "storage_bucket": "mindcomposure-c12d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195880228904:android:65c9b60af147959bccfd1d",
+        "android_client_info": {
+          "package_name": "com.example.mindcomposure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195880228904-b8mmgcgf0icuefb8alcqdoptomcop3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTMu3XIwo1gq2a7x7ixcoWJNcAvmYgeTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195880228904-b8mmgcgf0icuefb8alcqdoptomcop3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
