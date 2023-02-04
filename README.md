@@ -14,7 +14,7 @@ For the account management, all users should be able to register the account for
 
 For the stress level management subsystem, users shall be able to analyze their stress,anxiety and depression level by answering the questionnaire. In addition, users shall be able to view their history of stress,anxiety and depression level reports.
 
-For the stress technique treatment management subsystem, users shall be able to practice the breathing techniques by following the breathing techniques instructions with sounds and pictures. Then, users shall be able to practice the yoga poses by following the yoga instructions with sounds and pictures. Furthermore, users shall be able to read the balanced food facts article for gaining knowledge on what food that can reduce the stress level. These food fact are being updated by (Universiti Teknologi Malaysia)UTM counsellors.
+For the stress technique treatment management subsystem, users shall be able to practice the breathing techniques by following the breathing techniques instructions with sounds and pictures. Then, users shall be able to practice the yoga poses by following the yoga instructions with sounds and pictures. Furthermore, users shall be able to read the balanced food facts article for gaining knowledge on what food that can reduce the stress level. These food facts article are being updated by (Universiti Teknologi Malaysia)UTM counsellors.
 
 For the stress level management subsystem, all users shall be able to ask questions related stress in open discussion. UTM counsellor and users shall be able to sent message in the open discussion with their username is displayed.
 
