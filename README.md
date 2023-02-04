@@ -20,7 +20,7 @@ For the stress level management subsystem, all users shall be able to ask questi
 
 Below are the figure for whole use case diagram of MINDCOMPOSURE application:
 
-         ![use case daigram](https://user-images.githubusercontent.com/62758016/216787635-e20bf3a2-1d59-425b-8bf7-6d0e7389b522.PNG)
+  ![use case daigram](https://user-images.githubusercontent.com/62758016/216787635-e20bf3a2-1d59-425b-8bf7-6d0e7389b522.PNG)
 
  i.	Programming languages that being used:  
 - Flutter(Dart Programming)
