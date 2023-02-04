@@ -1,6 +1,6 @@
 # MINDCOMPOSURE
 
-Below are the prototype interface slides of MINDCOMPOSURE:
+Below are the main prototype mobile interface design slides of MINDCOMPOSURE application:
 
 [Prototype Interface.pdf](https://github.com/nmssyahmi/Mindcomposure/files/10609500/Prototype.Interface.pdf)
 
