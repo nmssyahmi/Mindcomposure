@@ -29,8 +29,3 @@ ii.	Database Server that being used:
 - Firebase, Firebase Authentication for user authentication, 
 - Firebase Firestore for storing various data 
 - Firebase Storage for storing image.
-
-c) Here is the video presentation of Stress Management Mobile Application(MINDCOMPOSURE) application in Google Drive:
-
-https://drive.google.com/file/d/1yE8RXab5AOrXZoAR1j85HjX5l4ZKc4La/view?usp=sharing
-
