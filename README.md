@@ -16,7 +16,7 @@ For the stress level management subsystem, users shall be able to analyze their 
 
 For the stress technique treatment management subsystem, users shall be able to practice the breathing techniques by following the breathing techniques instructions with sounds and pictures. Then, users shall be able to practice the yoga poses by following the yoga instructions with sounds and pictures. Furthermore, users shall be able to read the balanced food facts article for gaining knowledge on what food that can reduce their stress level. These food facts article also are being updated by (Universiti Teknologi Malaysia)UTM counsellors. In addition, users shall be able to upload their own personal happy photos in the application and view them when they are stressed.
 
-For the stress level management subsystem, all users shall be able to ask questions related stress in open discussion. UTM counsellor and users shall be able to sent message in the open discussion with their username is displayed.
+For the discussion management subsystem, all users shall be able to ask questions related stress in open discussion. UTM counsellor and users shall be able to sent message in the open discussion with their username is displayed.
 
 Below are the figure for whole use case diagram of MINDCOMPOSURE application:
 
