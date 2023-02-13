@@ -26,6 +26,6 @@ Below are the figure for whole use case diagram of MINDCOMPOSURE application:
 - Flutter(Dart Programming)
 
 ii.	Database Server that being used:  
-- Firebase Authentication for user authentication, 
+- Firebase Authentication for user authentication 
 - Firebase Firestore for storing various data 
 - Firebase Storage for storing image.
